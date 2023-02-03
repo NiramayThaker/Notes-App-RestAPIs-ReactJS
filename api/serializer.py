@@ -6,5 +6,3 @@ class NoteSerializer(ModelSerializer):
 	class Meta:
 		model = Note
 		fields = '__all__'
-
-
