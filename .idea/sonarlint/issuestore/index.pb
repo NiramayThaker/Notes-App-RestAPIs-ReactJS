@@ -1,6 +1,4 @@
 
-?
-mynotes/urls.py,b\7\b7e53072b45f917250ffc529ea2d2b48d9fbaa82
 ;
 api/apps.py,9\a\9a8032ee9d0071a4b4f5bddb03125d8236020c01
 ?
