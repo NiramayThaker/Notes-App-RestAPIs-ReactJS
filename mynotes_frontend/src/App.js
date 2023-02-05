@@ -15,7 +15,6 @@ function App() {
     <Router>
       <div className="App">
         <Header/>
-
         <Routes>
           <Route path="/" exact element={<NotesListPage />} />
         </Routes>
