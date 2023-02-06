@@ -17,8 +17,8 @@ function App() {
       <div className="App">
         <Header/>
         <Routes>
+          <Route path="/note/:id" exact element={<NotePage />} />
           <Route path="/" exact element={<NotesListPage />} />
-          <Route path="/note/:id" element={<NotePage />} />
         </Routes>
       </div>
     </Router>
