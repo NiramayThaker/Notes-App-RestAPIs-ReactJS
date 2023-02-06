@@ -12,7 +12,7 @@ import { useParams } from 'react-router-dom';
     //     )
     // }
     
-    
+
 const NotePage = () => {
     let { id } = useParams();
     let [note, stateNotes] = useState(null)
@@ -39,5 +39,4 @@ const NotePage = () => {
     </div>
     )
 }
-
 export default NotePage
